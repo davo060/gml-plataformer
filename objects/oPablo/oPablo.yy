@@ -9,7 +9,10 @@
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sPabloR",
+    "path": "sprites/sPabloR/sPabloR.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
